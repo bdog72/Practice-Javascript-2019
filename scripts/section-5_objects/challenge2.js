@@ -1,3 +1,3 @@
 console.log('------------------------------------');
-console.log();
+console.log('Challenge 2');
 console.log('------------------------------------');

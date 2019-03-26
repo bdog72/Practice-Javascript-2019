@@ -1,3 +1,3 @@
 console.log('------------------------------------');
-console.log('Bozo scripts.js');
+console.log('Practice 2');
 console.log('------------------------------------');
